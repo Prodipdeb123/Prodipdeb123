@@ -1,4 +1,6 @@
-[![MasterHead](https://i.gifer.com/1kc1.gif)
+<img src="![TIbw (1)](https://user-images.githubusercontent.com/112300885/187060807-cc6c3fd9-4ee6-40e1-9740-4abda8dfc35f.gif)" alt="coding" aligine = "middle" width= "600">
+
+
 <h1 align="center">Hi 👋, I'm Prodip Deb</h1>
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="400">
 

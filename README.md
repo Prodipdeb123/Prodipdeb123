@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/112300885/187060807-cc6c3fd9-4ee6-40e1-9740-4abda8dfc35f.gif" alt="coding" align="middle" height="200" width="700">
+<img src="https://user-images.githubusercontent.com/112300885/187060807-cc6c3fd9-4ee6-40e1-9740-4abda8dfc35f.gif" alt="coding" align="middle" height="200" width="850">
 
 
 <h1 align="center">Hi 👋, I'm Prodip Deb</h1>

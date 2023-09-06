@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **web devlopment, Dsa, webdesiging**
 
-- 📫 How to reach me **prodip.006935@snuindia.in**
+- 📫 How to reach me **debprodip2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
